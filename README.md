@@ -14,10 +14,9 @@ Google Colab
 
 #### Источники данных
 
-Набор данных: Weather Dataset
-Источник: [https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package](https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package)
-Формат хранения: CSV
-Файл: weatherAUS.csv
+- Набор данных: Weather Dataset
+- Источник: [https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package](https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package)
+- Формат хранения: CSV
 
 #### Структура проекта
 
