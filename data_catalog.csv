@@ -1,7 +1,7 @@
 filename,path,size,extension,rows,columns,description
 README.md,./README.md,4196,.md,,,Файл проекта
-lab9.ipynb,./lab9.ipynb,22129,.ipynb,,,Файл проекта
-data_catalog.csv,./data_catalog.csv,225,.csv,,,Файл проекта
+lab9.ipynb,./lab9.ipynb,22135,.ipynb,,,Файл проекта
+data_catalog.csv,./data_catalog.csv,5717,.csv,,,Файл проекта
 generate_data_catalog.py,./generate_data_catalog.py,1181,.py,,,Файл проекта
 FETCH_HEAD,./.git/FETCH_HEAD,93,,,,Файл проекта
 HEAD,./.git/HEAD,21,,,,Файл проекта
@@ -9,7 +9,7 @@ packed-refs,./.git/packed-refs,112,,,,Файл проекта
 ORIG_HEAD,./.git/ORIG_HEAD,41,,,,Файл проекта
 description,./.git/description,73,,,,Файл проекта
 index,./.git/index,494,,,,Файл проекта
-COMMIT_EDITMSG,./.git/COMMIT_EDITMSG,27,,,,Файл проекта
+COMMIT_EDITMSG,./.git/COMMIT_EDITMSG,329,,,,Файл проекта
 config,./.git/config,393,,,,Файл проекта
 update.sample,./.git/hooks/update.sample,3650,.sample,,,Файл проекта
 pre-push.sample,./.git/hooks/pre-push.sample,1374,.sample,,,Файл проекта
@@ -42,16 +42,20 @@ pack-229045090df024edbd27f703dc76ce91c321ef4a.pack,./.git/objects/pack/pack-2290
 pack-229045090df024edbd27f703dc76ce91c321ef4a.idx,./.git/objects/pack/pack-229045090df024edbd27f703dc76ce91c321ef4a.idx,1268,.idx,,,Файл проекта
 pack-229045090df024edbd27f703dc76ce91c321ef4a.rev,./.git/objects/pack/pack-229045090df024edbd27f703dc76ce91c321ef4a.rev,80,.rev,,,Файл проекта
 1f2353aea6fbdc8769143345f3eb9e069be38d,./.git/objects/ec/1f2353aea6fbdc8769143345f3eb9e069be38d,88,,,,Файл проекта
+8ef9f94ffaa566af1eebb4078c64dfc4fe73f9,./.git/objects/42/8ef9f94ffaa566af1eebb4078c64dfc4fe73f9,5680,,,,Файл проекта
 6e34e2d7713568fbeebfab432e82793e921d9a,./.git/objects/73/6e34e2d7713568fbeebfab432e82793e921d9a,87,,,,Файл проекта
 2c7c61feaf25f409eabd876cdc8bcc13b3ee06,./.git/objects/31/2c7c61feaf25f409eabd876cdc8bcc13b3ee06,835,,,,Файл проекта
 b5ffee61d879269c52c293fa0765f5a3760496,./.git/objects/b2/b5ffee61d879269c52c293fa0765f5a3760496,53,,,,Файл проекта
 15541e44f74242b24c0c0d9c217102957e6f02,./.git/objects/32/15541e44f74242b24c0c0d9c217102957e6f02,1145,,,,Файл проекта
 61e8daa771382d8757cffef908597040cfc544,./.git/objects/37/61e8daa771382d8757cffef908597040cfc544,120,,,,Файл проекта
 2838826ab06f46533c58421f1e97e1cf4ddb0a,./.git/objects/cf/2838826ab06f46533c58421f1e97e1cf4ddb0a,790,,,,Файл проекта
+3a21f5150e9d24e0ff78b8d6ea5676c4e72352,./.git/objects/fa/3a21f5150e9d24e0ff78b8d6ea5676c4e72352,609,,,,Файл проекта
 48ee7f3743028c286befe1c733d2f101fb2c51,./.git/objects/61/48ee7f3743028c286befe1c733d2f101fb2c51,87,,,,Файл проекта
 372a7aa01c88c9cac8103b1a38e66afc61bcb1,./.git/objects/1d/372a7aa01c88c9cac8103b1a38e66afc61bcb1,888,,,,Файл проекта
+a32c65342bb31b9568b726787380d4a7854566,./.git/objects/e1/a32c65342bb31b9568b726787380d4a7854566,194,,,,Файл проекта
 ac97b69accd5c2d5a272f33c0132e1d0b86bd9,./.git/objects/2c/ac97b69accd5c2d5a272f33c0132e1d0b86bd9,964,,,,Файл проекта
 6cc596506459c7f6a75201958f423ec2904d10,./.git/objects/28/6cc596506459c7f6a75201958f423ec2904d10,21,,,,Файл проекта
+811d93c313eec5d9855b16a1d20cce31ed6f5e,./.git/objects/cd/811d93c313eec5d9855b16a1d20cce31ed6f5e,1499,,,,Файл проекта
 2b932ef26a19c5a1e75de6290e486ef49183b6,./.git/objects/b1/2b932ef26a19c5a1e75de6290e486ef49183b6,54,,,,Файл проекта
 2d7e3011029036b069a11611242098e66d0f0b,./.git/objects/f4/2d7e3011029036b069a11611242098e66d0f0b,1131,,,,Файл проекта
 verifiable,./.git/lfs/cache/locks/refs/heads/main/verifiable,24,,,,Файл проекта
@@ -59,3 +63,4 @@ HEAD,./.git/logs/HEAD,437,,,,Файл проекта
 main,./.git/logs/refs/heads/main,437,,,,Файл проекта
 HEAD,./.git/logs/refs/remotes/origin/HEAD,206,,,,Файл проекта
 main,./.git/logs/refs/remotes/origin/main,171,,,,Файл проекта
+settings.json,./.vscode/settings.json,104,.json,,,Файл проекта
