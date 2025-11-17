@@ -1,0 +1,2 @@
+filename,path,extension,size_bytes,modified,rows,columns,column_names,column_types,description
+.gitkeep,data/.gitkeep,,1,2025-11-17 04:30:54.901646,,,,,"Файл данных, используемый в проекте lab9"
